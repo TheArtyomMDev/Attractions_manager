@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="no_account_yet_hint">No account yet? Contact the administrator</string>
+    <string name="repeat_password">Repeat password</string>
+    <string name="create_account">Create account</string>
+    <string name="has_account_hint">Already has account? Log in</string>
+    <string name="logo" translatable="false">Logo</string>
+    <string name="email_input_error">Invalid email</string>
+    <string name="password_input_error">Password length should be more than 6 characters</string>
+    <string name="passwords_not_match_error">Passwords do not match</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="topup">Top-up</string>
+    <string name="spend">Spend</string>
+    <string name="time_format" translatable="false">HH:mm:ss dd-MM-yyyy</string>
+</resources>

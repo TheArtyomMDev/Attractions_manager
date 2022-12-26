@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1038830847148",
+    "project_id": "attractions-123",
+    "storage_bucket": "attractions-123.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038830847148:android:ea776193ddce0133a04b09",
+        "android_client_info": {
+          "package_name": "com.cardmanager.cashier"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038830847148-ae5nr5vrnbqfgsdub197pd59cfh93p5m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzh91pGc1X6sUOnl0wUcSjm-lw0Yq2cLg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038830847148-ae5nr5vrnbqfgsdub197pd59cfh93p5m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038830847148:android:44527f6281435406a04b09",
+        "android_client_info": {
+          "package_name": "com.cardmanager.operator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038830847148-ae5nr5vrnbqfgsdub197pd59cfh93p5m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzh91pGc1X6sUOnl0wUcSjm-lw0Yq2cLg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038830847148-ae5nr5vrnbqfgsdub197pd59cfh93p5m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

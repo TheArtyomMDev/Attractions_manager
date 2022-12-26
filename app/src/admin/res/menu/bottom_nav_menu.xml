@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_employees"
+        android:icon="@drawable/ic_employees"
+        android:title="Работники" />
+
+    <item
+        android:id="@+id/navigation_attractions"
+        android:icon="@drawable/ic_attraction"
+        android:title="Аттракционы" />
+
+    <item
+        android:id="@+id/navigation_history"
+        android:icon="@drawable/ic_time"
+        android:title="История" />
+
+    <item
+        android:id="@+id/navigation_operator_reports"
+        android:icon="@drawable/ic_person_search"
+        android:title="Отчет" />
+
+    <item
+        android:id="@+id/navigation_attractions_reports"
+        android:icon="@drawable/ic_reports"
+        android:title="Отчет" />
+
+</menu>

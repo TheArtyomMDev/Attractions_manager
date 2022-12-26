@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_employees">
+
+    <fragment
+        android:id="@+id/navigation_employees"
+        android:name="com.cardmanager.EmployeesFragment"
+        android:label="Работники"
+        tools:layout="@layout/fragment_employees" />
+
+    <fragment
+        android:id="@+id/navigation_attractions"
+        android:name="com.cardmanager.AttractionsFragment"
+        android:label="Аттракционы"
+        tools:layout="@layout/fragment_attractions" />
+
+    <fragment
+        android:id="@+id/navigation_history"
+        android:name="com.cardmanager.HistoryFragment"
+        android:label="Транзакции"
+        tools:layout="@layout/fragment_history" />
+
+    <fragment
+        android:id="@+id/navigation_operator_reports"
+        android:name="com.cardmanager.OperatorsReportsFragment"
+        android:label="Отчет"
+        tools:layout="@layout/fragment_operators_reports" />
+
+    <fragment
+        android:id="@+id/navigation_attractions_reports"
+        android:name="com.cardmanager.AttractionsReportsFragment"
+        android:label="Отчет"
+        tools:layout="@layout/fragment_attractions_reports" />
+
+</navigation>

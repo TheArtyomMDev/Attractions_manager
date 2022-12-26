@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="email">Почта</string>
+    <string name="password">Пароль</string>
+    <string name="login">Войти</string>
+    <string name="no_account_yet_hint">Нет аккаунта? Свяжитесь с администратором</string>
+    <string name="email_input_error">Неправильный формат почты</string>
+    <string name="password_input_error">"Пароль должен быть больше шести символов "</string>
+    <string name="title_home">Главная</string>
+    <string name="topup">Пополнение</string>
+
+</resources>
